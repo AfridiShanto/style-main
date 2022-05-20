@@ -236,6 +236,7 @@ img {
     text-align: center;
   }
   .info a{
-   margin: auto 31%;
+   margin: auto 29%;
+   text-align: center;
   }
 }
